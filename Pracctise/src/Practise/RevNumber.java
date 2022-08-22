@@ -3,7 +3,7 @@ package Practise;
 public class RevNumber {
 
 	public static void main(String[] args) {
-		int i = 1234;
+		int i = 12345;
 		int count = 0;
 		int rev;
 		while (i != 0) {
