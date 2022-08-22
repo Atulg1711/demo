@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<test name="Test">
+	<parameter name="url"
+		value="https://classic.freecrm.com/login.cfm" />
+	<parameter name="id" value="Rushi_123" />
+	<parameter name="pass" value="Rushi@8530" />
+
+	<classes>
+			<class name="Features_TestNG.Parameters" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

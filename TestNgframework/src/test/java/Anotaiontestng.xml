@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite1">
+	<test name="Test123">
+		<classes>
+			<class name="By_Naveen_TestNG_Framwork.Annotations_flow">
+
+				<Meethods>
+					<include name="url" />
+					<include name="Login" />
+
+				</Meethods>
+			</class>
+
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

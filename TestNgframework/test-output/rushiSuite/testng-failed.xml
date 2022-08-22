@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [rushiSuite]" guice-stage="DEVELOPMENT">
+  <parameter name="password" value="admin123"/>
+  <parameter name="id" value="Admin"/>
+  <test thread-count="5" name="Test12(failed)">
+    <classes>
+      <class name="By_Naveen_TestNG_Framwork.Parametrs_Passing">
+        <methods>
+          <include name="method"/>
+        </methods>
+      </class> <!-- By_Naveen_TestNG_Framwork.Parametrs_Passing -->
+    </classes>
+  </test> <!-- Test12(failed) -->
+</suite> <!-- Failed suite [rushiSuite] -->

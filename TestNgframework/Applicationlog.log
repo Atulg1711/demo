@@ -1,0 +1,15 @@
+
+2022-Jul-16 16:39:14,536 [main]  Lpg_4J 
+  INFO  webdriver invoke
+2022-Jul-16 16:39:16,816 [main]  Lpg_4J 
+  INFO  enter the ggogle name
+2022-Jul-16 16:39:19,665 [main]  Lpg_4J 
+  INFO  Find element and pass the value test
+2022-Jul-16 16:44:30,354 [main]  Lpg_4J 
+  INFO  webdriver invoke
+2022-Jul-16 16:44:32,739 [main]  Lpg_4J 
+  INFO  enter the ggogle name
+2022-Jul-16 16:44:36,648 [main]  Lpg_4J 
+  INFO  Find element and pass the value test
+2022-Jul-16 16:44:39,573 [main]  Lpg_4J 
+  INFO  get window handle
