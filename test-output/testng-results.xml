@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-22T18:55:19 IST" name="Default suite" finished-at="2022-08-22T18:55:20 IST" duration-ms="91">
+    <groups>
+    </groups>
+    <test started-at="2022-08-22T18:55:19 IST" name="Default test" finished-at="2022-08-22T18:55:20 IST" duration-ms="91">
+      <class name="com.banglore_team.validation.Banglore_Team_validatio">
+        <test-method signature="banglore_ream()[pri:0, instance:com.banglore_team.validation.Banglore_Team_validatio@68e965f5]" started-at="2022-08-22T18:55:20 IST" name="banglore_ream" finished-at="2022-08-22T18:55:20 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- banglore_ream -->
+      </class> <!-- com.banglore_team.validation.Banglore_Team_validatio -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
